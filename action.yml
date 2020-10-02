@@ -1,6 +1,6 @@
-name: sublimelsp
+name: alihsaas
 description: Sends HTTP POST data with json
-author: sublimelsp
+author: alihsaas
 
 inputs:
   payload:
